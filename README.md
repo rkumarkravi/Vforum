@@ -16,4 +16,4 @@ Spring MVC, Hibernate, Log4j & Selenium for Automation testing.
 - Easy to integrate with organisation
 - Hibernate ( Easy to switch between databases)
 
-# IF YOU LIKED MY WORK SUPPORT ME BY RATING THIS PROJECT
+# IF YOU LIKED MY WORK SUPPORT ME BY GIVING A STAR TO THIS PROJECT
